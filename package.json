@@ -1,0 +1,24 @@
+{
+    "name": "j_blow",
+    "displayName": "j_blow",
+    "description": "inspire in Jonathan blow color scheme for emacs",
+    "version": "0.0.1",
+    "author": {
+        "name": "Francesco Bassino"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "j_blow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/j_blow-color-theme.json"
+            }
+        ]
+    }
+}
