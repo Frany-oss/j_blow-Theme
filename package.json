@@ -9,8 +9,32 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Frany-oss/j_blow-Theme"
+    },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "keywords": [
+        "simple theme",
+        "dark theme",
+        "green",
+        "jonathan blow theme",
+        "j blow theme",
+        "j_blow theme",
+        "jonathan blow",
+        "j blow",
+        "j_blow",
+        "simple dark theme",
+        "dark",
+        "rust theme",
+        "cpp theme",
+        "c++ theme"        
     ],
     "contributes": {
         "themes": [
