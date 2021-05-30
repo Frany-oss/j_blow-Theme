@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "j-blow"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Theme inspire by the great Jonathan Blow (j_blow) color scheme he has on emacs.  
+## Is not the same, but is a really nice low contrast and easy to the eyes theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I hope you like it!! 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+C++
