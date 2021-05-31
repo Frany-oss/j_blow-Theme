@@ -21,7 +21,7 @@
         "titleBar.border": "#052c31",
         "activityBar.background": "#042327",
         "activityBar.foreground": "#d7dae0",
-        "panel.border": "#b59e7a4b",//
+        "panel.border": "#b59e7a4b",
         "sideBar.background": "#042327",
         "editor.background": "#042027",
         "editorCursor.background": "#000",
@@ -101,7 +101,7 @@
             "name": "Misc",
             "scope": [
                 "meta.function",
-                //"storage.type.function",
+                "storage.type.function",//
                 "string meta.method-call",
                 "string variable.other",
                 "variable.other.object",
@@ -123,8 +123,8 @@
 				"variable.parameter",
 				"entity.name.scope-resolution",
                 "variable.object.property",
-                "variable.language.this"
-
+                "variable.language.this",
+                "support.function.builtin.python"
 			],
 			"settings": {
 				"foreground": "#b7cadd",
@@ -136,10 +136,13 @@
 				"entity.name.tag.html",
 				"entity.other.attribute-name.class.css",
 				"entity.name.type.mod.rust",
-				//"entity.name.function.call",
 				"entity.name.function.python",
                 "meta.object-literal.key",
-                "storage.modifier.ts"
+                "storage.modifier.ts",
+                "entity.name.type.struct",
+                "storage.type.annotation.java",
+                "entity.name.type.class",
+                
 			],
 			"settings": {
 				"foreground": "#9DE3C0",
@@ -162,7 +165,8 @@
             "scope": [
                 "keyword.control",
                 "keyword.operator.logical",
-                "keyword.operator.new"
+                "keyword.operator.new",
+                
             ],
             "settings": {
                 "foreground": "#CCC"
