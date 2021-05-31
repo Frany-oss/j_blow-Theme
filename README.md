@@ -14,5 +14,5 @@ C++
 Python
 ![python](https://user-images.githubusercontent.com/54272736/120124556-7f3ff180-c17a-11eb-841e-e88585183e95.JPG)
 
-Rust (I recomend to use it with the extension "rust-analyzer"
+Rust (I recomend to use it with the extension "rust-analyzer")
 ![rust](https://user-images.githubusercontent.com/54272736/120124558-80711e80-c17a-11eb-9f4e-7036f75c0910.JPG)
