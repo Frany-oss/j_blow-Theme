@@ -6,3 +6,6 @@ I hope you like it!!
 
 
 C++
+![cpp](https://user-images.githubusercontent.com/54272736/120124534-659eaa00-c17a-11eb-8195-0e0ce9b7659c.JPG)
+
+Python
