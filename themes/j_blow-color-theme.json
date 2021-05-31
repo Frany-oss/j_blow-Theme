@@ -2,11 +2,10 @@
     "name": "j_blow",
     "type": "dark",
     "colors": {
-        //"contrastBorder": "#B59E7A",
         "input.border": "#B59E7A",
         "checkbox.border": "#B59E7A",
         "dropdown.border": "#B59E7A",
-        "window.activeBorder": "#052c31",
+        "window.activeBorder": "#09363b",
         "button.background": "#052c31",
         "button.hoverBackground": "#b59e7a00",
         "editorGroupHeader.tabsBackground": "#042327",
@@ -22,9 +21,9 @@
         "titleBar.border": "#052c31",
         "activityBar.background": "#042327",
         "activityBar.foreground": "#d7dae0",
-        "panel.border": "#b59e7a00",//
+        "panel.border": "#b59e7a4b",//
         "sideBar.background": "#042327",
-        "editor.background": "#042327",
+        "editor.background": "#042027",
         "editorCursor.background": "#000",
         "editorSuggestWidget.background": "#042327",
         "editorSuggestWidget.selectedBackground": "#b59e7a65",
@@ -42,13 +41,13 @@
         "debugExceptionWidget.border": "#B59E7A",
         "debugToolBar.border": "#B59E7A",
         "statusBar.debuggingBorder": "#B59E7A",
-        "panelTitle.activeForeground": "#bdb39500",
+        "panelTitle.activeForeground": "#bdb395",
         "panelTitle.inactiveForeground": "#ccc",
         "panel.dropBackground": "#63878a1a",
         "quickInput.list.focusBackground": "#b59e7aa4",
         "quickInputList.focusBackground": "#b59e7aa4",
-        "panelSection.dropBackground": "#63878a1a",
-        "sideBar.dropBackground": "#63878a1a",
+        "panelSection.dropBackground": "#63878af1",
+        "sideBar.dropBackground": "#63878af1",
         "editorGroup.dropBackground": "#63878a1a",
         "list.dropBackground": "#63878a1a",
         "list.highlightForeground": "#bdb395",
@@ -119,10 +118,13 @@
 			"scope": [
 				"storage.type.function",
 				"constant.numeric",
-				"entity.name.type.rust",
-				"entity.name.type.param.rust",
+				"entity.name.type",
+				"entity.name.type.param",
 				"variable.parameter",
-				"entity.name.scope-resolution.cpp"
+				"entity.name.scope-resolution",
+                "variable.object.property",
+                "variable.language.this"
+
 			],
 			"settings": {
 				"foreground": "#b7cadd",
@@ -135,7 +137,9 @@
 				"entity.other.attribute-name.class.css",
 				"entity.name.type.mod.rust",
 				//"entity.name.function.call",
-				"entity.name.function.python"
+				"entity.name.function.python",
+                "meta.object-literal.key",
+                "storage.modifier.ts"
 			],
 			"settings": {
 				"foreground": "#9DE3C0",
