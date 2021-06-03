@@ -107,6 +107,7 @@
                 "variable.other.object",
                 "meta.function-call",
                 "support.function",
+                "meta.item-access.python"
             ],
             "settings": {
                 "foreground": "#bdb395"
@@ -124,7 +125,8 @@
 				"entity.name.scope-resolution",
                 "variable.object.property",
                 "variable.language.this",
-                "support.function.builtin.python"
+                "support.function.builtin.python",
+                "variable.language.python"
 			],
 			"settings": {
 				"foreground": "#b7cadd",
