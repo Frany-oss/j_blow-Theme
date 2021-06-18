@@ -34,7 +34,7 @@
         "dropdown.background": "#2A343E",
         "dropdown.listBackground": "#042327",
         "list.focusBackground": "#b59e7aa4",
-        "list.inactiveSelectionBackground": "#b59e7aa4",
+        "list.inactiveSelectionBackground": "#63878a1a",
         "list.hoverBackground": "#b59e7a65",
         "menu.selectionBackground": "#b59e7a65",
         "menu.foreground": "#ccc",
