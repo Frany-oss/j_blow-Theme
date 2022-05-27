@@ -16,14 +16,14 @@
         "scrollbarSlider.background": "#b59e7aa4",
         "scrollbarSlider.hoverBackground": "#B59E7A",
         "menu.border": "#b59e7a8a",
-        "titleBar.activeBackground": "#052c31",
+        "titleBar.activeBackground": "#031c1f",
         "titleBar.inactiveBackground": "#0c141f",
         "titleBar.border": "#052c31",
-        "activityBar.background": "#051c21",
+        "activityBar.background": "#031c1f",
         "activityBar.foreground": "#d7dae0",
         "panel.border": "#b59e7a4b",
-        "sideBar.background": "#051c21",
-        "editor.background": "#051c21", //
+        "sideBar.background": "#031c1f",
+        "editor.background": "#031c1f", //
         "editorCursor.background": "#000",
         "editorSuggestWidget.background": "#042327",
         "editorSuggestWidget.selectedBackground": "#b59e7a65",
